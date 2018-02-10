@@ -1,4 +1,4 @@
-about top10largestfiles.py
+--->  About top10largestfiles.py
 
 This program outputs the top 10 largest files in size present in the specified directory
 
@@ -11,7 +11,7 @@ Output:
 Path of the files and their sizes.
 
 
-About desktop_clutter_sorter.py
+-----> About desktop_clutter_sorter.py
 
 This program loops through all the files present on the desktop and moves into separate folders based on their extension
 
